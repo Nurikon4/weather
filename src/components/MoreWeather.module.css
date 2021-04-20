@@ -1,0 +1,12 @@
+.MoreWeather{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.goback{
+    text-decoration: none;
+    color: red;
+}
+.uptitle{
+    margin: 30px 0 50px;
+    font-size: 60px;
+}

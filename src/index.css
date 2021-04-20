@@ -1,0 +1,23 @@
+@import 'reset.css';
+
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #385774;
+}
+
+.wrapper{
+  width: 98%;
+  margin: 0 auto;
+  text-align: center;
+}
